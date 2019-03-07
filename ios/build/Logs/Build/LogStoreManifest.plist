@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>F07BAC54-DC47-4D2D-9C85-CB67D81857EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F07BAC54-DC47-4D2D-9C85-CB67D81857EA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>ActionSheet project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ActionSheet</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ActionSheet with scheme ActionSheet and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>573679678.90864003</real>
+			<key>timeStoppedRecording</key>
+			<real>573679682.21535099</real>
+			<key>title</key>
+			<string>Building project ActionSheet with scheme ActionSheet and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F07BAC54-DC47-4D2D-9C85-CB67D81857EA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
